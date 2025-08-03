@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is a sample file. 
 This file has been changed. 
+=======
+This is a sample file.
+>>>>>>> a5332c0ae474f91bfd9e8d0dbee11cb3a92ed65a
